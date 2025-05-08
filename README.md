@@ -19,6 +19,7 @@ Welcome to my GitHub profile, Vxctorlm.
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+[![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
@@ -28,6 +29,5 @@ Welcome to my GitHub profile, Vxctorlm.
 ---
 
 ### 📫 Contact me
-
 - Email: [victorlopezmoreno5100@gmail.com](mailto:victorlopezmoreno5100@gmail.com)
 - LinkedIn: [Víctor López Moreno](https://www.linkedin.com/in/víctor-lópez-moreno-57042a355)
