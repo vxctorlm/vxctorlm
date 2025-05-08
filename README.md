@@ -22,12 +22,6 @@ Welcome to my GitHub profile, Vxctorlm.
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-013243?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-
-### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxctorlm&hide_progress=true&layout=compact&theme=radical)](https://github.com/vxctorlm)
----
-
-
 ### 📫 Contact
 
 [![Email](https://img.shields.io/badge/-Email-4A4A4A?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:victorlopezmoreno5100@gmail.com) 
